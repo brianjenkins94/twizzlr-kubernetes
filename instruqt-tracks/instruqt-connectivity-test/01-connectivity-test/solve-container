@@ -1,6 +1,0 @@
-#!/bin/bash
-set -euxo pipefail
-
-echo "Creating folder instruqt"
-
-mkdir -p /root/instruqt;

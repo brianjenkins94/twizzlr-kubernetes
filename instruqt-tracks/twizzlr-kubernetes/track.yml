@@ -1,0 +1,26 @@
+slug: twizzlr-kubernetes
+id: iyuptmwlfhnp
+title: Twizzlr - Kubernetes
+teaser: Learn how to build Kubernetes-based tracks with this template
+description: |-
+  Learn how to build Kubernetes-based tracks with this template.
+
+  **This track demonstrates how to:**
+    - Provision a single node k3s cluster on a virtual machine
+    - Deploy a webserver (NGINX) on Kubernetes
+    - Use a service tab to expose the web server through the Instruqt UI
+icon: https://cdn.instruqt.com/assets/templates/kubernetes.png
+tags: []
+owner: bjenkins-challenge
+developers:
+- brianjenkins94@gmail.com
+lab_config:
+  overlay: false
+  width: 33
+  position: right
+  feedback_recap_enabled: true
+  loadingMessages: true
+  lab_v2: false
+  override_challenge_layout: false
+  hideStopButton: false
+checksum: "13889305075531697769"

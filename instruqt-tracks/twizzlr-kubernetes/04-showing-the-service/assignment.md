@@ -1,6 +1,6 @@
 ---
 slug: showing-the-service
-id: 7c5yeulnypqy
+id: pitpuyvvw3g4
 type: challenge
 title: Viewing NGINX
 teaser: View the service in an embedded tab

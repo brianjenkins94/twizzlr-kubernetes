@@ -1,0 +1,29 @@
+{
+    "name": "twizzlr-kubernetes",
+    "version": "0.0.0",
+    "description": "",
+    "type": "module",
+    "author": "Brian Jenkins",
+    "license": "MIT",
+    "scripts": {
+      "build": "find slides/ -name \"*.md\" -exec sh -c \"npx slidev build \\\"{}\\\" --base \\\"/twizzlr-kubernetes/\\$(dirname {})\\\" --out \\\"\\$PWD/docs/\\$(dirname {})/\\\"\" \\;",
+      "test": "echo \"Error: no test specified\""
+    },
+    "devDependencies": {
+      "@slidev/cli": "latest",
+      "@slidev/theme-default": "latest",
+      "@slidev/theme-seriph": "latest",
+      "@stylistic/eslint-plugin": "latest",
+      "@tsconfig/node-lts": "latest",
+      "@types/node": "latest",
+      "@typescript-eslint/eslint-plugin": "latest",
+      "@typescript-eslint/parser": "latest",
+      "tsx": "latest",
+      "typescript": "latest"
+    },
+    "engines": {
+      "node": ">=18.0.0",
+      "npm": ">=8.0.0"
+    },
+    "sideEffects": false
+}

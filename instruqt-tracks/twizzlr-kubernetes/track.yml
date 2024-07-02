@@ -1,6 +1,6 @@
 slug: twizzlr-kubernetes
-id: iyuptmwlfhnp
-title: Twizzlr - Kubernetes
+id: yxmfkjknzbwt
+title: twizzlr-kubernetes
 teaser: Learn how to build Kubernetes-based tracks with this template
 description: |-
   Learn how to build Kubernetes-based tracks with this template.
@@ -18,9 +18,10 @@ lab_config:
   overlay: false
   width: 33
   position: right
+  sidebar_enabled: true
   feedback_recap_enabled: true
   loadingMessages: true
   lab_v2: false
   override_challenge_layout: false
   hideStopButton: false
-checksum: "13889305075531697769"
+checksum: "13667341698438385896"

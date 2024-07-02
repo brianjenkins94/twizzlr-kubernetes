@@ -7,6 +7,7 @@
     "license": "MIT",
     "scripts": {
       "build": "find slides/ -name \"*.md\" -exec sh -c \"npx slidev build \\\"{}\\\" --base \\\"/twizzlr-kubernetes/\\$(dirname {})\\\" --out \\\"\\$PWD/docs/\\$(dirname {})/\\\"\" \\;",
+      "refresh": "cd instruqt-tracks && rm -rf * && instruqt track pull bjenkins-challenge/twizzlr-kubernetes",
       "test": "echo \"Error: no test specified\""
     },
     "devDependencies": {

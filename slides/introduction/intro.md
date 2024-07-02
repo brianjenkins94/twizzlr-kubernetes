@@ -12,18 +12,16 @@ title: Welcome
 mdc: true
 ---
 
-# Welcome!
+# Hello, World!
 
-We are excited about going on this journey with you & ensuring your success every step of the way!
+Hello, World!
 
-<!--  -->
+---
 
-# Agenda
+# Page 2
 
-- Introductions and outline Key Resources
-- Agree on Communication cadence and methods
-- Review and confirm your Initial Deployment Goals
-- Discus Platform Access
-- Agree on Next Steps
+Directly use code blocks for highlighting
 
-<!--  -->
+```ts
+console.log('Hello, World!')
+```

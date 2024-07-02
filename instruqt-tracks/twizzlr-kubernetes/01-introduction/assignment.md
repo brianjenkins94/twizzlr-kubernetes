@@ -7,7 +7,7 @@ teaser: Let’s get down to Twizness
 tabs:
 - title: Introduction
   type: website
-  url: https://brianjenkins94.github.io/twizzlr-kubernetes/introduction
+  url: https://brianjenkins94.github.io/twizzlr-kubernetes/slides/introduction/index.html
 difficulty: ""
 ---
 Welcome!

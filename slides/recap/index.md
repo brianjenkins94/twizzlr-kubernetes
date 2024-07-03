@@ -10,5 +10,5 @@ transition: slide-left
 title: Welcome
 mdc: true
 layout: image
-image: twizzlr.001.jpeg
+image: instruqt.001.jpeg
 ---

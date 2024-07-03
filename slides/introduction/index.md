@@ -10,15 +10,15 @@ transition: slide-left
 title: Welcome
 mdc: true
 layout: image
-image: twizzlr.008.png
+image: instruqt.008.png
 ---
 
 ---
 layout: image
-image: twizzlr.009.png
+image: instruqt.009.png
 ---
 
 ---
 layout: image
-image: twizzlr.010.png
+image: instruqt.010.png
 ---

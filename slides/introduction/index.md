@@ -11,7 +11,7 @@ title: Welcome
 mdc: true
 layout: image
 image: instruqt.001.png
-preload: true
+colorSchema: dark
 ---
 
 ---

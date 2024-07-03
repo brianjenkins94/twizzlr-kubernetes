@@ -11,6 +11,7 @@ title: Welcome
 mdc: true
 layout: image
 image: instruqt.008.png
+preload: true
 ---
 
 ---

@@ -10,15 +10,35 @@ transition: slide-left
 title: Welcome
 mdc: true
 layout: image
-image: instruqt.008.png
+image: instruqt.001.png
 ---
 
 ---
 layout: image
-image: instruqt.009.png
+image: instruqt.002.png
 ---
 
 ---
 layout: image
-image: instruqt.010.png
+image: instruqt.003.png
+---
+
+---
+layout: image
+image: instruqt.004.png
+---
+
+---
+layout: image
+image: instruqt.005png
+---
+
+---
+layout: image
+image: instruqt.006.png
+---
+
+---
+layout: image
+image: instruqt.007.png
 ---
